@@ -4,6 +4,8 @@ An AI-powered web application that detects whether an uploaded face
 image is **Real** or **AI Generated (Deepfake)** using Deep Learning and
 Reinforcement Feedback Learning.
 
+Live Demo: fakeimage-detector.netlify.app
+
 ------------------------------------------------------------------------
 
 ## Project Overview
